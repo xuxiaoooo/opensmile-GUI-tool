@@ -51,6 +51,6 @@ Double-click mac-linux.sh or run the following command in the terminal:
 ```
 
 ### how to use？/ 如何使用
-#### 选择音频所在的文件夹（wav格式）
-#### 选择输出csv目标文件夹
-#### 点击提取特征按钮
+1. 选择音频所在的文件夹（wav格式）
+2. 选择输出csv目标文件夹
+3. 点击提取特征按钮
